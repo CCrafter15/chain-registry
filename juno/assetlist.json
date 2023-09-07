@@ -1460,6 +1460,7 @@
         "exponent": 6
       }
     ],
+    "description": "$DGL is a utility token for the Licorice ecosystem and a native token on Juno chain."
     "address": "juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e",
     "base": "factory/juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e/DGL",
     "name": "Licorice",
